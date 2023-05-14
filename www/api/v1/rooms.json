@@ -1,0 +1,106 @@
+[
+  {
+    "locked": false,
+    "icon": "fas fa-door-open",
+    "code": "default",
+    "rid": "default",
+    "static": true,
+    "users": 0,
+    "gods": [],
+    "flags": {
+      "static": true,
+      "active": false,
+      "removed": false,
+      "hidden": false
+    },
+    "settings": {
+      "background": {
+        "enabled": false
+      },
+      "commands": {
+        "youtube": true
+      }
+    },
+    "_id": "5e603f162c230f2d341c4a7b",
+    "id": "5e603f162c230f2d341c4a7b",
+    "name": "Default"
+  },
+  {
+    "locked": false,
+    "icon": "fas fa-newspaper",
+    "code": "news",
+    "rid": "news",
+    "static": true,
+    "users": 0,
+    "gods": [],
+    "flags": {
+      "static": true,
+      "active": false,
+      "removed": false,
+      "hidden": false
+    },
+    "settings": {
+      "background": {
+        "enabled": true,
+        "youtube": "9Auq9mYxFEE"
+      },
+      "commands": {
+        "youtube": false
+      }
+    },
+    "_id": "5e6d8a0520173c03acedaad4",
+    "id": "5e6d8a0520173c03acedaad4",
+    "name": "News"
+  },
+  {
+    "locked": false,
+    "icon": "fas fa-door-open",
+    "code": "5e6e13040170902c649d105a",
+    "rid": "5e6e13040170902c649d105a",
+    "static": false,
+    "users": 4,
+    "flags": {
+      "static": false,
+      "active": false,
+      "removed": false,
+      "hidden": false
+    },
+    "settings": {
+      "background": {
+        "enabled": false
+      },
+      "commands": {
+        "youtube": true
+      }
+    },
+    "_id": "5e6e13040170902c649d105a",
+    "id": "5e6e13040170902c649d105a",
+    "name": "Pure Autism 2"
+  },
+  {
+    "locked": true,
+    "icon": "fas fa-door-open",
+    "code": "5e6e22d10170902c649d1319",
+    "rid": "5e6e22d10170902c649d1319",
+    "static": false,
+    "users": 0,
+    "gods": [],
+    "flags": {
+      "static": false,
+      "active": false,
+      "removed": false,
+      "hidden": false
+    },
+    "settings": {
+      "background": {
+        "enabled": false
+      },
+      "commands": {
+        "youtube": true
+      }
+    },
+    "_id": "5e6e22d10170902c649d1319",
+    "id": "5e6e22d10170902c649d1319",
+    "name": "Anti-Fap Room"
+  }
+]
